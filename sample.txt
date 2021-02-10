@@ -1,0 +1,2 @@
+test how many letters in file.
+test the amount of words in file.
